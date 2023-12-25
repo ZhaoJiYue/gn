@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/alberliu/gn"
+	"github.com/ZhaoJiYue/gn"
 	"net"
 	"strconv"
 	"time"

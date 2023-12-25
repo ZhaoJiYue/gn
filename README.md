@@ -11,8 +11,8 @@ gn是一个基于linux下epoll的网络框架，目前只能运行在Linux环境
 package main
 
 import (
-	"github.com/alberliu/gn"
-	"github.com/alberliu/gn/codec"
+	"github.com/ZhaoJiYue/gn"
+	"github.com/ZhaoJiYue/gn/codec"
 	"net"
 	"strconv"
 	"time"

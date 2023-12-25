@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/alberliu/gn"
-	"github.com/alberliu/gn/codec"
+	"github.com/ZhaoJiYue/gn"
+	"github.com/ZhaoJiYue/gn/codec"
 
 	"time"
 )

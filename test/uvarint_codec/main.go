@@ -3,8 +3,8 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/alberliu/gn"
-	"github.com/alberliu/gn/codec"
+	"github.com/ZhaoJiYue/gn"
+	"github.com/ZhaoJiYue/gn/codec"
 	"math"
 	"net"
 	"strconv"
